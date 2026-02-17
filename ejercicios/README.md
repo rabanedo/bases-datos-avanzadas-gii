@@ -170,7 +170,7 @@ SELECT * FROM linea_pedido;
 
 ### ✅ Ejercicio 2: Sistema de Gestión de Plataforma de Aprendizaje Corporativo
 
-> Puedes ver la solución de este ejercicio en [este enlace](../ejercicios/soluciones/ejercico-2/README.md).
+> Puedes ver la solución de este ejercicio en [este enlace](soluciones/ejercicio-2/README.md).
 
 #### Parte 1 – Caso práctico (6 puntos)
 
